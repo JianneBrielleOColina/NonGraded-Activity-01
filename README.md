@@ -1,2 +1,3 @@
-This is a Non Graded Laboratory Activity on HTML.
-The topics covered in this activity are the basics of HTML and making tables.
+- This is a Non Graded Laboratory Activity on HTML.
+- The topics covered in this activity are the basics of HTML and making tables.
+- https://github.com/JianneBrielleOColina/NonGraded-Activity-01
